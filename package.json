@@ -34,7 +34,7 @@
 	},
 	"dependencies": {
 		"chalk": "5.4.1",
-		"css-select": "5.1.0",
+		"css-select": "6.0.0",
 		"dom-serializer": "2.0.0",
 		"domhandler": "5.0.3",
 		"htmlparser2": "10.0.0",
