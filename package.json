@@ -37,7 +37,7 @@
 		"css-select": "6.0.0",
 		"dom-serializer": "3.0.0",
 		"domhandler": "6.0.1",
-		"htmlparser2": "11.0.0",
+		"htmlparser2": "12.0.0",
 		"postcss": "8.5.8",
 		"pretty-bytes": "7.1.0"
 	},
